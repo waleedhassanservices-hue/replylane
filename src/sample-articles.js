@@ -9,4 +9,5 @@ export const sampleArticles = [
     topic: "account",
     body: "Use Forgot password on the sign-in page. The reset link expires after one hour.",
   },
+  { title: "Refunds", topic: "billing", body: "Refunds go back to the original payment method within five business days." },
 ];
