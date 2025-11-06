@@ -10,4 +10,5 @@ export const sampleArticles = [
     body: "Use Forgot password on the sign-in page. The reset link expires after one hour.",
   },
   { title: "Refunds", topic: "billing", body: "Refunds go back to the original payment method within five business days." },
+  { title: "Failed payment", topic: "billing", body: "A failed payment retries twice. Update the card from the billing page to avoid a pause." },
 ];
