@@ -1,0 +1,103 @@
+:root {
+  color: #17211c;
+  background: #f3f6f4;
+  font-family: "Iowan Old Style", Palatino, Georgia, serif;
+}
+
+body {
+  margin: 0;
+  padding: 32px 20px 64px;
+}
+
+.top, main {
+  max-width: 920px;
+  margin: 0 auto;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  align-items: end;
+  margin-bottom: 24px;
+}
+
+.mark {
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 12px;
+  margin: 0 0 8px;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 1.1;
+  margin: 0;
+  max-width: 16ch;
+}
+
+.plan {
+  margin: 0;
+  color: #3d5248;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.panel {
+  background: white;
+  border-radius: 18px;
+  padding: 20px;
+  box-shadow: 0 10px 30px rgba(23, 33, 28, 0.06);
+}
+
+label, h2 {
+  display: block;
+  margin-bottom: 8px;
+}
+
+textarea, pre {
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #d7e0db;
+  border-radius: 12px;
+  padding: 12px;
+  font: 16px/1.45 ui-sans-serif, system-ui, sans-serif;
+  background: #fbfcfb;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+button {
+  background: #1f6b45;
+  color: white;
+  border: 0;
+  border-radius: 999px;
+  padding: 10px 16px;
+  font: 600 15px ui-sans-serif, system-ui, sans-serif;
+}
+
+#sources, #status {
+  color: #3d5248;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+@media (max-width: 800px) {
+  main, .top {
+    display: block;
+  }
+  h1 {
+    font-size: 32px;
+  }
+  .plan {
+    margin-top: 12px;
+  }
+}
