@@ -16,4 +16,5 @@ export const sampleArticles = [
   { title: "Invite a teammate", topic: "account", body: "Owners can invite teammates from the members page. Invites expire after seven days." },
   { title: "Remove a seat", topic: "account", body: "Removing a teammate frees the seat at once and signs them out." },
   { title: "Two-factor", topic: "account", body: "Turn on two-factor from security settings. Recovery codes are shown only once." },
+  { title: "Order tracking", topic: "shipping", body: "Tracking appears on the order page once the carrier scans the parcel." },
 ];
