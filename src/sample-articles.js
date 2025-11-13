@@ -23,4 +23,5 @@ export const sampleArticles = [
   { title: "Article format", topic: "product", body: "Keep each help article to one topic and start with the direct answer." },
   { title: "Draft allowance", topic: "product", body: "The daily draft count resets at midnight in the workspace timezone." },
   { title: "Data retention", topic: "privacy", body: "Customer messages used for a draft are kept for thirty days, then deleted." },
+  { title: "Who can read articles", topic: "privacy", body: "Only members of the workspace can read its help articles." },
 ];
