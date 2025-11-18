@@ -26,4 +26,5 @@ export const sampleArticles = [
   { title: "Who can read articles", topic: "privacy", body: "Only members of the workspace can read its help articles." },
   { title: "First workspace", topic: "onboarding", body: "Create a workspace, add three articles, then paste a real customer message." },
   { title: "Sample inbox", topic: "onboarding", body: "The sample inbox loads bundled articles so a new team can try a draft immediately." },
+  { title: "Refunds (18)", topic: "billing", body: "Refunds go back to the original payment method within five business days." },
 ];
