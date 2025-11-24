@@ -34,4 +34,5 @@ export const sampleArticles = [
   { title: "Remove a seat (23)", topic: "account", body: "Removing a teammate frees the seat at once and signs them out." },
   { title: "Two-factor (24)", topic: "account", body: "Turn on two-factor from security settings. Recovery codes are shown only once." },
   { title: "Order tracking (25)", topic: "shipping", body: "Tracking appears on the order page once the carrier scans the parcel." },
+  { title: "Delivery window (26)", topic: "shipping", body: "Standard delivery takes three to five business days inside the country." },
 ];
