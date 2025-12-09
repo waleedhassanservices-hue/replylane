@@ -54,4 +54,5 @@ export const sampleArticles = [
   { title: "Delivery window (43)", topic: "shipping", body: "Standard delivery takes three to five business days inside the country." },
   { title: "Change an address (44)", topic: "shipping", body: "The shipping address can be changed until the order is packed." },
   { title: "Export replies (45)", topic: "product", body: "Drafts can be copied or exported as text from the reply panel." },
+  { title: "Article format (46)", topic: "product", body: "Keep each help article to one topic and start with the direct answer." },
 ];
