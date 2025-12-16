@@ -55,4 +55,5 @@ export const sampleArticles = [
   { title: "Change an address (44)", topic: "shipping", body: "The shipping address can be changed until the order is packed." },
   { title: "Export replies (45)", topic: "product", body: "Drafts can be copied or exported as text from the reply panel." },
   { title: "Article format (46)", topic: "product", body: "Keep each help article to one topic and start with the direct answer." },
+  { title: "Draft allowance (47)", topic: "product", body: "The daily draft count resets at midnight in the workspace timezone." },
 ];
