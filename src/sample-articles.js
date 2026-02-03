@@ -114,4 +114,5 @@ export const sampleArticles = [
   { title: "Refunds (103)", topic: "billing", body: "Refunds go back to the original payment method within five business days." },
   { title: "Failed payment (104)", topic: "billing", body: "A failed payment retries twice. Update the card from the billing page to avoid a pause." },
   { title: "Plan changes (105)", topic: "billing", body: "Upgrades apply immediately. Downgrades apply on the next renewal." },
+  { title: "Receipts (106)", topic: "billing", body: "Each successful charge emails a receipt to the workspace owner." },
 ];
