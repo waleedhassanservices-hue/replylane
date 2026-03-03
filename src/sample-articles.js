@@ -146,4 +146,5 @@ export const sampleArticles = [
   { title: "First workspace (135)", topic: "onboarding", body: "Create a workspace, add three articles, then paste a real customer message." },
   { title: "Sample inbox (136)", topic: "onboarding", body: "The sample inbox loads bundled articles so a new team can try a draft immediately." },
   { title: "Refunds (137)", topic: "billing", body: "Refunds go back to the original payment method within five business days." },
+  { title: "Failed payment (138)", topic: "billing", body: "A failed payment retries twice. Update the card from the billing page to avoid a pause." },
 ];
