@@ -234,4 +234,5 @@ export const sampleArticles = [
   { title: "Failed payment (223)", topic: "billing", body: "A failed payment retries twice. Update the card from the billing page to avoid a pause." },
   { title: "Plan changes (224)", topic: "billing", body: "Upgrades apply immediately. Downgrades apply on the next renewal." },
   { title: "Receipts (225)", topic: "billing", body: "Each successful charge emails a receipt to the workspace owner." },
+  { title: "Invite a teammate (226)", topic: "account", body: "Owners can invite teammates from the members page. Invites expire after seven days." },
 ];
