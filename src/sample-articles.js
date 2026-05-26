@@ -236,4 +236,5 @@ export const sampleArticles = [
   { title: "Receipts (225)", topic: "billing", body: "Each successful charge emails a receipt to the workspace owner." },
   { title: "Invite a teammate (226)", topic: "account", body: "Owners can invite teammates from the members page. Invites expire after seven days." },
   { title: "Remove a seat (227)", topic: "account", body: "Removing a teammate frees the seat at once and signs them out." },
+  { title: "Two-factor (228)", topic: "account", body: "Turn on two-factor from security settings. Recovery codes are shown only once." },
 ];
