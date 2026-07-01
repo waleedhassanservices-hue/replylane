@@ -262,4 +262,5 @@ export const sampleArticles = [
   { title: "Draft allowance (251)", topic: "product", body: "The daily draft count resets at midnight in the workspace timezone." },
   { title: "Data retention (252)", topic: "privacy", body: "Customer messages used for a draft are kept for thirty days, then deleted." },
   { title: "Who can read articles (253)", topic: "privacy", body: "Only members of the workspace can read its help articles." },
+  { title: "First workspace (254)", topic: "onboarding", body: "Create a workspace, add three articles, then paste a real customer message." },
 ];
