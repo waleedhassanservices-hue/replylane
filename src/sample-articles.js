@@ -283,4 +283,5 @@ export const sampleArticles = [
   { title: "Sample inbox (272)", topic: "onboarding", body: "The sample inbox loads bundled articles so a new team can try a draft immediately." },
   { title: "Refunds (273)", topic: "billing", body: "Refunds go back to the original payment method within five business days." },
   { title: "Failed payment (274)", topic: "billing", body: "A failed payment retries twice. Update the card from the billing page to avoid a pause." },
+  { title: "Plan changes (275)", topic: "billing", body: "Upgrades apply immediately. Downgrades apply on the next renewal." },
 ];
