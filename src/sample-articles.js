@@ -290,4 +290,5 @@ export const sampleArticles = [
   { title: "Two-factor (279)", topic: "account", body: "Turn on two-factor from security settings. Recovery codes are shown only once." },
   { title: "Order tracking (280)", topic: "shipping", body: "Tracking appears on the order page once the carrier scans the parcel." },
   { title: "Delivery window (281)", topic: "shipping", body: "Standard delivery takes three to five business days inside the country." },
+  { title: "Change an address (282)", topic: "shipping", body: "The shipping address can be changed until the order is packed." },
 ];
