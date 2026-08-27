@@ -311,4 +311,5 @@ export const sampleArticles = [
   { title: "Export replies (300)", topic: "product", body: "Drafts can be copied or exported as text from the reply panel." },
   { title: "Article format (301)", topic: "product", body: "Keep each help article to one topic and start with the direct answer." },
   { title: "Draft allowance (302)", topic: "product", body: "The daily draft count resets at midnight in the workspace timezone." },
+  { title: "Data retention (303)", topic: "privacy", body: "Customer messages used for a draft are kept for thirty days, then deleted." },
 ];
