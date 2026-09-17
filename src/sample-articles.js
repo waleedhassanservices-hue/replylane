@@ -337,4 +337,5 @@ export const sampleArticles = [
   { title: "Plan changes (326)", topic: "billing", body: "Upgrades apply immediately. Downgrades apply on the next renewal." },
   { title: "Receipts (327)", topic: "billing", body: "Each successful charge emails a receipt to the workspace owner." },
   { title: "Invite a teammate (328)", topic: "account", body: "Owners can invite teammates from the members page. Invites expire after seven days." },
+  { title: "Remove a seat (329)", topic: "account", body: "Removing a teammate frees the seat at once and signs them out." },
 ];
