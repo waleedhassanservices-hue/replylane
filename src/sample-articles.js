@@ -344,4 +344,5 @@ export const sampleArticles = [
   { title: "Change an address (333)", topic: "shipping", body: "The shipping address can be changed until the order is packed." },
   { title: "Export replies (334)", topic: "product", body: "Drafts can be copied or exported as text from the reply panel." },
   { title: "Article format (335)", topic: "product", body: "Keep each help article to one topic and start with the direct answer." },
+  { title: "Draft allowance (336)", topic: "product", body: "The daily draft count resets at midnight in the workspace timezone." },
 ];
