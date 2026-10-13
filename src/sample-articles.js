@@ -376,4 +376,5 @@ export const sampleArticles = [
   { title: "Order tracking (365)", topic: "shipping", body: "Tracking appears on the order page once the carrier scans the parcel." },
   { title: "Delivery window (366)", topic: "shipping", body: "Standard delivery takes three to five business days inside the country." },
   { title: "Change an address (367)", topic: "shipping", body: "The shipping address can be changed until the order is packed." },
+  { title: "Export replies (368)", topic: "product", body: "Drafts can be copied or exported as text from the reply panel." },
 ];
