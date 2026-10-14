@@ -382,4 +382,5 @@ export const sampleArticles = [
   { title: "Data retention (371)", topic: "privacy", body: "Customer messages used for a draft are kept for thirty days, then deleted." },
   { title: "Who can read articles (372)", topic: "privacy", body: "Only members of the workspace can read its help articles." },
   { title: "First workspace (373)", topic: "onboarding", body: "Create a workspace, add three articles, then paste a real customer message." },
+  { title: "Sample inbox (374)", topic: "onboarding", body: "The sample inbox loads bundled articles so a new team can try a draft immediately." },
 ];
