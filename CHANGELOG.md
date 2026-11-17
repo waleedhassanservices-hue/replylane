@@ -3,3 +3,4 @@
 - 2026-11-13 17:17 — Simplify the header wording
 - 2026-11-16 09:34 — Clarify the error text
 - 2026-11-16 14:03 — Update project notes
+- 2026-11-17 11:48 — Fix a small layout overlap
