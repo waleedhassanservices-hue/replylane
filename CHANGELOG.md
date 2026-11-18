@@ -5,3 +5,4 @@
 - 2026-11-16 14:03 — Update project notes
 - 2026-11-17 11:48 — Fix a small layout overlap
 - 2026-11-18 10:42 — Review the latest screen changes
+- 2026-11-18 12:13 — Note today's progress
