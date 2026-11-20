@@ -9,3 +9,4 @@
 - 2026-11-18 14:25 — Polish button labels
 - 2026-11-18 15:18 — Align card padding
 - 2026-11-18 16:27 — Adjust the mobile spacing
+- 2026-11-20 16:59 — Adjust the mobile spacing
