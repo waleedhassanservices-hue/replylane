@@ -11,3 +11,4 @@
 - 2026-11-18 16:27 — Adjust the mobile spacing
 - 2026-11-20 16:59 — Adjust the mobile spacing
 - 2026-11-24 10:42 — Polish button labels
+- 2026-11-24 16:43 — Update project notes
