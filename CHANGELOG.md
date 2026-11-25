@@ -13,3 +13,4 @@
 - 2026-11-24 10:42 — Polish button labels
 - 2026-11-24 16:43 — Update project notes
 - 2026-11-25 10:44 — Tidy list empty states
+- 2026-11-25 11:41 — Record a follow-up in the notes
