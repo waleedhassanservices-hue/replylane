@@ -17,3 +17,4 @@
 - 2026-11-26 11:14 — Refresh the dashboard notes
 - 2026-11-26 12:37 — Review the latest screen changes
 - 2026-11-27 10:03 — Adjust spacing in the layout
+- 2026-11-27 16:43 — Fix a small layout overlap
